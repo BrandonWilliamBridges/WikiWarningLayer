@@ -5,3 +5,4 @@ For key words and phrases that may indicate high risk emergency situations, ther
 
 This connection may be a single directive or a chat bot crafted by specialists in the fields. Ex. Specialists from the American Heart Association develop a chat bot that is activated when the word heart attack is searched for via SMS, Web, Facebook, Etc.
 
+Initially, this system connects to wikipedia to retrieve informnation about topics and format them into a text message.
